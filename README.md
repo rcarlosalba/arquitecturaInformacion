@@ -70,7 +70,15 @@ Metas del negocio, objetivos finanaciero, politicas, cultura, tecnología, recur
     Navegación contextual: La navegación contextual ofrece contenido relacionado con el contenido que está consumiendo el usuario y le permite seguir navegando dentro del sitio.
 Podemos usar Navegación flexible o el conjunto de formas de llegar al mismo contenido. 
   - Sistemas de Rotulado:
+  El etiquetado o rotulado es el texto que nos permite encontrar el contenido que necesitamos debe ser contundente, concreto, familiar para el usuario.
+
+Usa etiquetas cortas que reflejen lo que hará el usuario, es decir, lenguaje imperativo.
+
   - Sistemas de busqueda:
+  Por otro lado tenemos los sistemas de búsqueda. La manera en que el usuario busca el contenido que necesita.
+  Por exploración: Navegar por las categorías para llegar al contenido específico
+  Usando el buscador: Permite que cuando el usuario tiene una búsqueda más concisa pueda introducir un término de búsqueda que lo lleve al resultado que espera.
+
 
 
 
