@@ -79,14 +79,54 @@ Usa etiquetas cortas que reflejen lo que hará el usuario, es decir, lenguaje im
   Por exploración: Navegar por las categorías para llegar al contenido específico
   Usando el buscador: Permite que cuando el usuario tiene una búsqueda más concisa pueda introducir un término de búsqueda que lo lleve al resultado que espera.
 
+## Cómo construir Arquitectura de Información 
+- Inventario de contenidos para ir poblando el producto digital. 
+- Si se va a contruir desde cero se clasifica lo que se va a tener. 
+¿Cómo se contruir?
+  - Se mapea por contenido para audicienca
+  - ver prioridad de contenidos 
+  - identififcar el tamña
+  - penser en la forma de unicar rápidamente 
+  - considerar SEO
+  
+Es vital para evitar contenido duplicado (nop debemos decir lo mismo de dos formas pues creamos confusión al usuario)
+## card sorting 
+  - no es más que poner el contenido en tarjetas/ post it o digital 
+  - se separan por subcategorias y categorias 
+  - tiene dos modalidades: 
+    - Abierta: sin categorias y se agrupan por categorias 
+    - cerrada: ya exiten las categorias y ahí se ordena el contenido (se pueden crear o renombrar pero eso es más abirto)
+Puede hacerse con los usuarios finales y pero en papel es más intuitivo y se puede hacer personalmente o en equipo de trabajo. 
+Todo esto antes de wireframes
 
+## Sitemap
+En UX menos es más
+muestra la agrupación, clasificación y jerarquía
 
+## wireflows 
+   - Es una representacion de los caminos y navegación que se siguen entre cada interfaz en base a la interacción 
+   - sugiere lo que ocurre cuando hace una interacción 
+   - muestra la relacion entre todos los wireframes 
+una interacción es el estimulo al usuario, control y respuesta 
 
+## wireframes 
+me dedia fidelidad, sin colores ni imagenes pero iconos superficiles 
 
+## wayfinding y breadcrumbs 
+viene del urbanismo 
+da orientacion (dónde estoy) ayudar a tomar desiciones de rutas (cómo llego de X a Y) crea mapas mentales (es consistente y entendible para predecir mi ruta) y muestra la meta (sé que llegue a donde deseaba) 
+se puede usar el buscador pogostiking (un salto de x a Y)}
+o se puede explorar crabwalking (seccion por sección) 
+las migan de pan pueden ser 
+  - localizador responde a la base de datos al orden 
+  - dinámico muestra el camino que yo segui
+  - Descriptivo que tiene que ver con los metadatos
 
+## Vocabularios controlados
+- formas de presentar a los términos relacionados con un determinado concepto 
+- concepto general -> concepto más usado > concepto similar -> cocentos relacionados -> concepto espacifico 
 
-
-
+si estoy buscando es X y me muestra X y X pero con variaciones hay relación de jerarquía y otro tipo de producto es una relacion de equivalencia y si me muestra accesorios se crea relación por asociación 
 
 
 
