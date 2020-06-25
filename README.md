@@ -129,11 +129,55 @@ las migan de pan pueden ser
 si estoy buscando es X y me muestra X y X pero con variaciones hay relación de jerarquía y otro tipo de producto es una relacion de equivalencia y si me muestra accesorios se crea relación por asociación 
 
 
+## (buscabilidad) Findability
+- Es hacerse/ hacer el producto/servicio/información encontrable. 
+- Debemos aprender a descarta todo lo que hace ruido 
+¿Cómo el usuario extrae la información? 
+debemos pensar en más que solo la estructura. La gente no lee grandes volumenes de información. 
+un mal diseño de contenidos es falta de findability debe ser localizable y navegable, debe ser facil de descubrir, es como se apoya la navegación y extracción de información. 
 
+### ¿Cómo  mejorar? 
+- El SEO es clave
+  - Títulos clatos 
+  -Densidad de contenidos 
+  - secciones meta o de accesibilidad/sematica 
+- no es cómo le decimos internamente al producto es cómo lo busca 
+- haciendo un buen diseño de información antes de la UI (tampoco una infografia es solución)
+- redactar contendios con conceptos que sean claros al usuario 
+- información clara y común al público 
+- ¿cómo el usuario usa nuestra app' 
+- hagamos una busqueda con errores (Platzi, placsi, etc, boletos, tiquete. Cómo se le dice en otros lados a mi producto/servicio/información)
 
+## Diseñando información 
+- Consiste en presentar la información y/o contenidos relevantes para el usuario
+- evitar lo irrelevante y7o fuera de contexto
+- pensar en lo que "scaneamos" 
+- categorizar la información es clave 
 
+## Prueba de usabilidad 
+es como hacer el testing de diseño centrada en el usuario o como las pruebas de UX y UI es de gravar video de cómo el usuario interactua con nuestro producto 
+- ¿cual es la primera impresión' 
+- ¿sabes que hacer primero? 
+- ¿te parecen claros los menos/etiquetas? ¿qué crees que vas a encontrar? 
+- ¿Qué caminos sigue el usuario? ¿qué encuentra? ¿lo entiende? 
 
+## Tree Testing 
+Es la encontrabilidad de información en una app o sitio 
+solo se meustra estrucutra y se le pregunta dpnde esperá encontrar el elemento 
 
+## Consejos 
+- Claridad desde el principio 
+- ser concreto 
+- usar convenciones (patterns) patrones de diseño 
+- destacar acciones -lenguaje imperativo, ordenes (usar espacio negativo para enfocar la acción)
+- breadcrumbs
+- accesos directos a lo más usado
+- acciones contextuales al contenido 
+- procesos claros (cuantos y en cual estoy) 
+- lenguaje común 
+- arquitectura de información oreilly 
+Louis Rosenfeld 
+Peter Morville
+Richard Saul Wurman 
+Jorge Arango 
 
-
-a
